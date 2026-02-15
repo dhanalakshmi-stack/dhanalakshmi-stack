@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Dhanalakshmi 👋
 
-<!--
-**dhanalakshmi-stack/dhanalakshmi-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 MERN Stack Developer  
+💻 Associate Software Developer  
+🌱 Currently improving Data Structures & System Design  
+🔐 Worked on KYC systems & Crypto Trading Engine  
+🌍 Open to Remote Opportunities  
 
-Here are some ideas to get you started:
+## Tech Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+🔹 KYC Verification System  
+🔹 Crypto Spot Trading Engine  
+🔹 Admin Dashboard
+
+## Contact
+📧 Open to collaboration & opportunities
